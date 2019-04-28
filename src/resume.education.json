@@ -1,0 +1,41 @@
+[
+  {
+    "text": "UCLA University",
+    "date": "Jan 2006 - May 2010",
+    "title": "MS Computer Science, Software Engineering",
+    "category": {
+      "tag": "education",
+      "color": "#018f69"
+    },
+    "link": {
+      "url": "#",
+      "text": "Read more"
+    }
+  },
+  {
+    "text": "UBA University",
+    "date": "Nov 1998 - Jun 1999",
+    "title": "BS Systems Engineering",
+    "category": {
+      "tag": "education",
+      "color": "#018f69"
+    },
+    "link": {
+      "url": "#",
+      "text": "Read more"
+    }
+  },
+  {
+    "text": "UBA/IUTIN University",
+    "date": "Oct 1994 - Oct 1998",
+    "title": "Master Systems Specialty ",
+    "category": {
+      "tag": "education",
+      "color": "#018f69"
+    },
+    "link": {
+      "url": "#",
+      "text": "Read more"
+    }
+  }
+]
